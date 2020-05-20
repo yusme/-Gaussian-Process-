@@ -1,4 +1,4 @@
-# -Gaussian-Process-
- Gaussian_Process
+# Gaussian Process
+ Gaussian Process
  
-![alt text](https://https://github.com/yusme/Gaussian-Process/blob/master/Gaussian.png)
+<img src="https://github.com/yusme/Gaussian-Process/blob/master/Gaussian.png" width="500">
